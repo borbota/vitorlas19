@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "egy hajóban versenyzés",
-    "colorLabel": "VIP vagy nem",
+    "colorLabel": "VIP vagy sem",
     "nodeLabel": "vitorlázók"
   },
   "features": {
